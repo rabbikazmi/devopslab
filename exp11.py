@@ -13,6 +13,6 @@ with open("sample.txt", "w") as f:
     f.write("Initial commit file")
 
 run("git add .")
-run('git commit -m "Initial commit using Python"')
+run('git commit -m "commit for exp 11"')
 
 print("Commit created successfully")
