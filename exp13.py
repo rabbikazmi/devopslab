@@ -4,6 +4,6 @@ def run(cmd):
     subprocess.run(cmd, shell=True)
 
 # Push changes to GitHub
-run("git push origin main")
+run("git push")
 
 print("Code pushed to GitHub successfully")
