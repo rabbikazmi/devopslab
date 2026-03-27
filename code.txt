@@ -1,0 +1,15 @@
+# Sample application config
+
+API_KEY = "12345-ABCDE-SECRETKEY"
+USERNAME = "admin"
+PASSWORD = "mySuperSecretPassword"
+
+# Database connection
+DB_HOST = "localhost"
+DB_USER = "root"
+DB_PASS = "root123"
+
+# Another secret
+SECRET = "this_is_a_hidden_secret"
+
+print("Application running...")

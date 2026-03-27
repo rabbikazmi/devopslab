@@ -1,0 +1,7 @@
+2026-03-27 13:50:29,607 - INFO - Pipeline started
+2026-03-27 13:50:30,616 - INFO - Code pulled from SCM
+2026-03-27 13:50:31,628 - INFO - Build successful
+2026-03-27 13:50:32,647 - INFO - Tests passed
+2026-03-27 13:50:33,675 - INFO - Docker image created
+2026-03-27 13:50:34,690 - INFO - Container started
+2026-03-27 13:50:34,700 - INFO - Pipeline completed successfully

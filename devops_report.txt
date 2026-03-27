@@ -1,0 +1,22 @@
+========== DEVOPS REPORT ==========
+Date & Time: 2026-03-27 14:03:50.013737
+
+---- GIT (SCM) INFO ----
+Repository Path : C:\Users\Rabbika Azmi\OneDrive\Desktop\devops\devopslab
+Branch          : main
+Last Commit     : dated 20 march 2026
+Author          : rabbikazmi
+Total Commits   : 20
+
+---- PIPELINE STATUS ----
+Build Status    : FAILED
+Test Status     : SKIPPED
+Deploy Status   : NOT DEPLOYED
+
+---- SYSTEM METRICS ----
+CPU Usage       : 34.4%
+Memory Usage    : 88.4%
+Disk Usage      : 60.8%
+
+---- HEALTH STATUS ----
+System Status   : WARNING (High Usage)

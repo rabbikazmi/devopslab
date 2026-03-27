@@ -1,0 +1,13 @@
+{
+    "vm": {
+        "status": "running",
+        "ip": "192.168.1.10"
+    },
+    "storage": {
+        "status": "attached"
+    },
+    "network": {
+        "status": "connected"
+    },
+    "status": "SUCCESS"
+}

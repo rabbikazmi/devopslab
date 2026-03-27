@@ -1,0 +1,5 @@
+2026-03-27 13:45:33,600 - INFO - Provisioning started
+2026-03-27 13:45:34,602 - INFO - VM created: {'name': 'web-server', 'cpu': 2, 'ram': '4GB'}
+2026-03-27 13:45:35,604 - INFO - Storage allocated: {'size': '50GB', 'type': 'SSD'}
+2026-03-27 13:45:36,610 - INFO - Network configured: {'vpc': 'vpc-01', 'subnet': 'subnet-01'}
+2026-03-27 13:45:36,617 - INFO - Provisioning finished

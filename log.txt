@@ -1,0 +1,9 @@
+INFO: Server started successfully
+INFO: User logged in
+WARNING: Disk space running low
+INFO: File uploaded
+ERROR: Database connection failed
+INFO: Retrying connection
+WARNING: High memory usage detected
+ERROR: Unable to send email
+INFO: Process completed
